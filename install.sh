@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Source: https://github.com/rabilrbl/jiotv_go
+# Source: https://github.com/amanktest/jiotv_go
 
 # Define the GitHub repository and binary information
-REPO_OWNER="rabilrbl"
+REPO_OWNER="amanktest"
 REPO_NAME="jiotv_go"
 BINARY_NAME="jiotv_go"
 
